@@ -65,12 +65,12 @@ pip install torch transformers datasets
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/lora-qlora-implementations.git
+git clone https://github.com/bharadwajvyadavalli/lora-adapt
 ```
 
 2. Navigate to the repository directory:
 ```bash
-cd lora-qlora-implementations
+cd lora-adapt
 ```
 
 3. Open the notebooks in Jupyter:
